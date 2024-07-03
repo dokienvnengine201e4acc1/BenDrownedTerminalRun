@@ -1,0 +1,188 @@
+import os
+
+def kienscomparators(input_password):
+    print("Enter password:")
+    Correct_Password = "1004"
+    input_password = input()
+    if input_password == Correct_Password:
+        os.system("timeout 10 echo Please wait...")
+        print("Welcome.")
+        print("")
+        print("Choose on stage: (1/2/3/4/5):")
+        number = input()
+        if number == "1":
+            print("Key: 65WA3Fd6re2aFbNMEd_23TrWfhJkLAXcOpQ4G")
+        elif number == "2":
+            while True:
+                print("Enter a key:")
+
+        elif number == "3":
+            print("Enter a key: ")
+            while True:
+                print
+        elif number == "4":
+            print("Enter a key:")
+            Key = input()
+            if Key == "65WA3Fd6re2aFbNMEd_23TrWfhJkLAXcOpQ4G":
+                print("Extract file ben.log:")
+                print("Ben drowned is love The Legend Of Zelda Majora's Mask Version, once day. He fall to swimming pool, he dies.")
+            else:
+                print("Wrong key.")
+                print("BEN: Don't you worry. I am not going anywhere.")
+        elif number == "5":
+            print("BEN: C on ti nue? (y/n):")
+            BEN_DROWNED_QUESTION_A = input()
+            if BEN_DROWNED_QUESTION_A == "y":
+                BEN_DROWNED_INVISIBLE = input()
+                if BEN_DROWNED_INVISIBLE == "ben":
+                    print("BEN: You kill me?:")
+                    BEN_DROWNED_KILL = input()
+                    if BEN_DROWNED_KILL == "yes":
+                        print("BEN: You shouldn't have done that.")
+                        while True:
+                            print
+
+
+                    elif BEN_DROWNED_KILL == "y":
+                        print("BEN: You shouldn't have done that.")
+                        while True:
+                            print
+
+
+                    elif BEN_DROWNED_KILL == "Yes":
+                        print("NEN: You shouldn't have done that.")
+                        while True:
+                            print
+
+
+                    elif BEN_DROWNED_KILL == "yEs":
+                        print("BEN: You shouldn't have done that.")
+                        while True:
+                            print
+
+                    elif BEN_DROWNED_KILL == "yeS":
+                        print("BEN: You shouldn't have done that.")
+                        while True:
+                            print
+
+
+                    elif BEN_DROWNED_KILL == "YEs":
+                        print("BEN: You shouldn't have done that.")
+                        while True:
+                            print
+
+
+                    elif BEN_DROWNED_KILL == "YeS":
+                        print("BEN: You shouldn't have done that.")
+                        while True:
+                            print
+
+                    
+                    elif BEN_DROWNED_KILL == "yES":
+                        print("BEN: You shouldn't have done that.")
+                        while True:
+                            print
+
+                    
+                    elif BEN_DROWNED_KILL == "YES":
+                        print("BEN: You shouldn't have done that.")
+                        while True:
+                            print
+
+
+                    elif BEN_DROWNED_KILL == "Y":
+                        print("BEN: You shouldn't have done that.")
+                        while True:
+                            print
+
+
+                    else:
+                        print("BEN: E xit 1 ing 56HDAKD ANEFBSF 00001111...")
+                    
+                else:
+                    while True:
+                        print
+
+                
+            if BEN_DROWNED_QUESTION_A == "Y":
+                BEN_DROWNED_INVISIBLE = input()
+                if BEN_DROWNED_INVISIBLE == "ben":
+                    print("BEN: You kill me?:")
+                    BEN_DROWNED_KILL = input()
+                    if BEN_DROWNED_KILL == "yes":
+                        print("BEN: You shouldn't have done that.")
+                        while True:
+                            print
+
+
+                    elif BEN_DROWNED_KILL == "y":
+                        print("BEN: You shouldn't have done that.")
+                        while True:
+                            print
+
+
+                    elif BEN_DROWNED_KILL == "Yes":
+                        print("NEN: You shouldn't have done that.")
+                        while True:
+                            print
+
+
+                    elif BEN_DROWNED_KILL == "yEs":
+                        print("BEN: You shouldn't have done that.")
+                        while True:
+                            print
+
+                    elif BEN_DROWNED_KILL == "yeS":
+                        print("BEN: You shouldn't have done that.")
+                        while True:
+                            print
+
+
+                    elif BEN_DROWNED_KILL == "YEs":
+                        print("BEN: You shouldn't have done that.")
+                        while True:
+                            print
+
+
+                    elif BEN_DROWNED_KILL == "YeS":
+                        print("BEN: You shouldn't have done that.")
+                        while True:
+                            print
+
+                    
+                    elif BEN_DROWNED_KILL == "yES":
+                        print("BEN: You shouldn't have done that.")
+                        while True:
+                            print
+
+                    
+                    elif BEN_DROWNED_KILL == "YES":
+                        print("BEN: You shouldn't have done that.")
+                        while True:
+                            print
+
+
+                    elif BEN_DROWNED_KILL == "Y":
+                        print("BEN: You shouldn't have done that.")
+                        while True:
+                            print
+
+                            
+                    else:
+                        print("BEN: E xit 1 ing 56HDAKD ANEFBSF 00001111...")
+                    
+                else:
+                    while True:
+                        print
+
+                    
+            else:
+                print("Oh...")
+        else:
+            print("Invalid options.")
+    else:
+        os.system("timeout 10 echo Please wait...")
+        print("Wrong Password. Please try again.")
+
+if __name__ == '__main__':
+    kienscomparators(input_password = 1004)
